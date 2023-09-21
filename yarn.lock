@@ -6469,11 +6469,6 @@ __metadata:
     react-native-test-app: "workspace:."
     react-native-windows: ^0.72.0
     webdriverio: ^8.11.2
-  peerDependencies:
-    react: ~17.0.1 || ~18.0.0 || ~18.1.0 || ~18.2.0
-    react-native: ^0.0.0-0 || 0.64 - 0.72 || 1000.0.0
-    react-native-macos: ^0.0.0-0 || 0.64 || 0.66 || 0.68 || 0.71 - 0.72
-    react-native-windows: ^0.0.0-0 || 0.64 - 0.72
   languageName: unknown
   linkType: soft
 
@@ -11176,10 +11171,10 @@ fsevents@^2.3.2:
     uuid: ^8.3.2
   peerDependencies:
     "@expo/config-plugins": ">=5.0"
-    react: ~17.0.1 || ~18.0.0 || ~18.1.0 || ~18.2.0
-    react-native: ^0.0.0-0 || 0.64 - 0.72 || 1000.0.0
-    react-native-macos: ^0.0.0-0 || 0.64 || 0.66 || 0.68 || 0.71 - 0.72
-    react-native-windows: ^0.0.0-0 || 0.64 - 0.72
+    react: ~17.0.2 || 18.0 - 18.2
+    react-native: ^0.0.0-0 || 0.66 - 0.72 || 1000.0.0
+    react-native-macos: ^0.0.0-0 || 0.66 || 0.68 || 0.71 - 0.72
+    react-native-windows: ^0.0.0-0 || 0.66 - 0.72
   peerDependenciesMeta:
     "@expo/config-plugins":
       optional: true
