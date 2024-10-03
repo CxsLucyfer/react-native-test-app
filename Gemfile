@@ -5,4 +5,4 @@ source 'https://rubygems.org'
 gem 'minitest'
 gem 'rubocop', require: false
 gem 'rubocop-minitest'
-gem 'xcodeproj'
+gem 'xcodeproj', '>= 1.25.1'
